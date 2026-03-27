@@ -1,0 +1,25 @@
+# Скомпилированные файлы Java (бинарники)
+*.class
+*.jar
+*.war
+*.ear
+
+# Файлы настроек IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Временные файлы и логи сканера
+scan_results.txt
+rare_log.txt
+all_codes.txt
+manifest.txt
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Временные файлы компилятора
+*.log
+*.tmp
