@@ -1,4 +1,4 @@
-# 🌵 Brawl Stars Code Utility v3.8
+8# 🌵 Brawl Stars Code Utility v3.8
 
 ![Brawl Stars](https://img.shields.io/badge/Game-Brawl%20Stars-brightgreen)
 ![Java](https://img.shields.io/badge/Language-Java%2017-orange)
@@ -20,7 +20,7 @@
 ### 🚀 Инструкция по запуску:
 1. Установите [JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) или выше.
 2. Скачайте файлы проекта в одну папку.
-3. Запустите файл `run.bat`.
+3. Запустите файл `run.bat`или файл .exe.
 
 ---
 
@@ -36,7 +36,7 @@
 ### 🚀 Quick Start:
 1. Install [JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) or later.
 2. Download all project files into one folder.
-3. Execute `run.bat`.
+3. Execute `run.bat` or file .exe.
 
 ---
 
